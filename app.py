@@ -31,8 +31,11 @@ else:
 
 
 
-# GROQ API Info
-GROQ_API_KEY = "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"
+
+from dotenv import load_dotenv
+load_dotenv()
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
