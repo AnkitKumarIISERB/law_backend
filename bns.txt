@@ -1,0 +1,358 @@
+BNS Section 1 – Short Title, Commencement & Application – Specifies the name as Bharatiya Nyaya Sanhita, its commencement date, nationwide jurisdiction including extraterritorial applicability, and its role in replacing the Indian Penal Code, 1860.
+BNS Section 2 – Definitions – Enumerates and defines crucial legal terms such as “act,” “offence,” “document,” “injury,” and “public servant” to ensure uniform interpretation across all provisions.
+BNS Section 3 – General Explanations – Clarifies interpretational rules like singular includes plural, masculine includes feminine, and how references to persons and acts are to be understood throughout the Act.
+BNS Section 4 – Punishments – Lists all legally permissible punishments including death, life imprisonment, rigorous or simple imprisonment, forfeiture of property, fine, and introduces community service as a reformative sentencing option.
+BNS Section 5 – Commutation of Sentence – Grants authority to reduce a sentence (like death or rigorous imprisonment) to a lesser lawful punishment without altering the conviction itself.
+BNS Section 6 – Fractions of Terms of Punishment – Explains how to compute partial terms (like one-third or one-half of imprisonment) when courts are permitted to reduce or adjust sentences proportionately.
+BNS Section 7 – Description of Imprisonment – Distinguishes between rigorous imprisonment (which includes hard labour) and simple imprisonment (which does not), allowing courts to choose appropriately based on the offence’s severity.
+BNS Section 8 – Amount of Fine – Empowers courts to impose fines that are just and proportionate, taking into account the nature of the offence and the financial capacity of the offender to pay.
+BNS Section 9 – Sentence for Acts Constituting Multiple Offences – Allows punishment for each offence if a single act qualifies as multiple crimes, but restricts excessively harsh sentencing beyond what is legally permissible.
+BNS Section 10 – Punishment in Doubtful Cases – Provides that if it's unclear which of two possible offences has been committed, the offender should be awarded punishment for the lesser of the two.
+BNS Section 11 – Solitary Confinement – Authorizes courts to impose solitary confinement only as part of rigorous imprisonment and within bounds prescribed by law, used only in exceptional situations.
+BNS Section 12 – Limit of Solitary Confinement – Limits solitary confinement to prevent inhumane conditions by capping the maximum number of days and frequency it can be used within a sentence.
+BNS Section 13 – Enhanced Punishment for Repeat Offenders – Prescribes increased severity in sentencing for individuals previously convicted of the same or similar offences, aiming to deter habitual criminals.
+BNS Section 14 – Acts Done by a Person Bound or Believed Himself Bound by Law – Protects individuals from liability when acting under a legal obligation or in good faith belief that such action was legally required.
+BNS Section 15 – Judicial Acts – Provides immunity to judges for actions performed as part of their official judicial duties, provided they act within their jurisdiction and not maliciously.
+BNS Section 16 – Acts Done Pursuant to Court Orders – Grants protection to those who carry out lawful court orders in good faith, including officers, clerks, or individuals obeying judicial directives.
+BNS Section 17 – Acts Done Under Justified Authority or Mistake of Fact – Offers legal protection for actions done under a mistaken belief of fact (not law) if the act was performed in good faith and without criminal intent.
+BNS Section 18 – Accidents in Doing Lawful Acts – Exempts individuals from criminal liability when harm is caused unintentionally while performing a lawful act using due care and without malicious intent.
+BNS Section 19 – Act Likely to Cause Harm but Done Without Criminal Intent to Prevent Greater Harm – Justifies actions that may unintentionally cause harm if done without criminal intent and in good faith to prevent greater or imminent danger.
+BNS Section 20 – Act of a Child Under Seven Years of Age – Exempts children below seven years from criminal liability by presuming they lack sufficient maturity to understand the nature and consequences of their actions.
+BNS Section 21 – Act of a Child Above Seven and Under Twelve of Immature Understanding – Provides conditional exemption from criminal liability for children aged 7–12 if they lack sufficient maturity to understand the nature and consequences of their actions.
+BNS Section 22 – Act of a Person of Unsound Mind – Exempts individuals from criminal liability if, at the time of the act, they were incapable of understanding the nature of their actions due to unsoundness of mind.
+BNS Section 23 – Act of a Person Intoxicated Without Knowledge or Against Will – Grants immunity to individuals who commit offences while involuntarily intoxicated, provided they could not understand the nature of their actions.
+BNS Section 24 – Offence Requiring Particular Intent or Knowledge Committed by One Without Such Intent – Clarifies that one cannot be held liable for specific intent-based offences if they lacked the required mental state, even if others involved possessed it.
+BNS Section 25 – Act Not Intended to Cause Death Done by Consent in Good Faith – Protects individuals from liability when causing harm or death with the injured person’s consent, provided it was done in good faith and without criminal intent.
+BNS Section 26 – Act Done in Good Faith for Benefit of a Person Without Consent – Allows actions done without consent to avoid harm or preserve life, as long as they are done in good faith and without criminal negligence.
+BNS Section 27 – Communication in Good Faith for Person’s Benefit – Shields from punishment those who communicate potentially harmful information if done with honest intent and for the benefit of the person receiving it.
+BNS Section 28 – Act to Avert Threat Not Intended to Cause Death – Justifies acts done under immediate threat or compulsion that don’t intentionally result in death, recognizing the pressure of duress.
+BNS Section 29 – Act Done in Exercise of Right of Private Defence – Grants legal protection for acts committed in lawful self-defence of person or property, as long as force used was proportionate and necessary.
+BNS Section 30 – Right of Private Defence Against Act of a Person of Unsound Mind – Allows use of self-defence even when the threat comes from someone who is legally exempt (e.g., mentally unsound) but poses real danger.
+BNS Section 31 – Right of Private Defence Against Act Not Constituting Offence – Recognizes the right of private defence against actions that don’t legally qualify as offences but still pose actual danger to life or property.
+BNS Section 32 – Commencement and Continuance of Right of Private Defence of Body – Specifies when the right to self-defence begins (when threat arises) and ends (once danger ceases), covering both actual and reasonable apprehension of harm.
+BNS Section 33 – Extent of Right of Private Defence of Body – Permits causing death in self-defence under extreme circumstances like assault with deadly weapons or threat of rape, kidnapping, or grievous hurt.
+BNS Section 34 – Commencement and Continuance of Right of Private Defence of Property – Establishes the timeline for exercising defence over property, starting from threat onset and lasting until the threat or intrusion ends.
+BNS Section 35 – Arrest Without Warrant – Empowers police to arrest without warrant in cognizable and non-bailable offences, such as when someone commits an offence in a police officer's presence or is suspected of doing so.
+BNS Section 36 – Right of Private Defence Against Deadly Assault on Property – Allows the use of force, including lethal force, to defend property under serious threat such as robbery, house-breaking at night, or mischief by fire.
+BNS Section 37 – Act Causing Slight Harm – No offence is committed when the harm caused is so trivial that no reasonable person would complain about it, emphasizing the principle of de minimis non curat lex (law does not care for trifles).
+BNS Section 38 – Abetment of Offence – Defines abetment as instigating, conspiring, or aiding another to commit an offence, even if the offence itself is not ultimately carried out.
+BNS Section 39 – Abettor – Clarifies who qualifies as an abettor, including those who facilitate the commission of a crime through advice, aid, or conspiracy.
+BNS Section 40 – Punishment for Abetment of Offence – Provides that abettors are subject to the same punishment as if they had directly committed the offence, depending on the nature and stage of abetment.
+BNS Section 41 – Abetment When Offence is Not Committed – States that even if the abetted offence is not committed, abettors may still face punishment, especially where intention and preparation are evident.
+BNS Section 42 – Criminal Conspiracy – Defines criminal conspiracy as an agreement between two or more persons to do an illegal act or a legal act by illegal means, even if no act is ultimately carried out.
+BNS Section 43 – Punishment for Criminal Conspiracy – Prescribes punishment for conspiracies equivalent to the intended offence if serious, or up to six months or fine for lesser conspiracies.
+BNS Section 44 – Attempt to Commit Offence – States that attempting an offence is itself punishable, with penalties proportionate to the seriousness of the offence attempted.
+BNS Section 45 – Definition of Joint Liability for Criminal Act – Establishes that when a criminal act is done by several persons in furtherance of a common intention, each person is equally liable as if they committed the act alone.
+BNS Section 46 – Liability When Offence is Effect of One Act and Another's Intention – Assigns full liability to a person if they intentionally cause an offence using someone else as a tool who lacks intent or knowledge (like a child or insane person).
+BNS Section 47 – Liability of Co-Conspirators for Acts Done in Pursuance of Common Object – Holds all members of a group equally liable for acts done in pursuit of a shared illegal intention, even if only one carried out the act.
+BNS Section 48 – Participation in Offence with Different Intent – States that if a person contributes to a crime but has a different intention, their liability depends on the intention and role they played.
+BNS Section 49 – Words Referring to Acts Include Illegal Omissions – Clarifies that references to acts in the law include both actions and unlawful omissions, broadening criminal liability.
+BNS Section 50 – Punishment of Offences Committed Outside India – States that Indian citizens and certain others can be prosecuted in India for offences committed outside Indian territory, including on Indian-registered ships and aircraft.
+BNS Section 51 – Certain Laws Not Affected – Ensures that the BNS does not override special or local laws unless specifically mentioned, preserving legal autonomy for such provisions.
+BNS Section 52 – Definitions of Offences Affecting the Human Body – Introduces the chapter and scope of offences such as murder, culpable homicide, assault, and hurt, which directly impact human life and safety.
+BNS Section 53 – Culpable Homicide – Defines culpable homicide as causing death with the intention of causing death or bodily injury likely to cause death, but falling short of murder in severity.
+BNS Section 54 – Murder – Defines murder as an aggravated form of culpable homicide where the act is done with clear intent or knowledge, with specific exclusions like grave provocation or sudden fight.
+BNS Section 55 – Punishment for Murder – Provides death or life imprisonment as punishment for murder, with possible fines depending on circumstances.
+BNS Section 56 – Murder by Group Involving Organized Crime – Imposes enhanced punishment including mandatory death or life imprisonment for murder committed by groups engaged in organized crime or gang activity.
+BNS Section 57 – Culpable Homicide Not Amounting to Murder – Describes circumstances (like grave provocation or sudden fight) where culpable homicide does not qualify as murder and attracts lesser punishment.
+BNS Section 58 – Dowry Death – Punishes the husband or relatives with minimum 7 years (up to life imprisonment) if a woman dies under unnatural circumstances within 7 years of marriage due to dowry-related harassment.
+BNS Section 59 – Attempt to Murder – Provides punishment up to 10 years or life imprisonment with fine for someone who makes a direct and deliberate attempt to commit murder.
+BNS Section 60 – Attempt by Life Convict to Commit Murder – Prescribes harsher penalties, including the death sentence, for life convicts who attempt murder while serving their sentence.
+BNS Section 61 – Causing Death by Negligence – Covers deaths caused by rash or negligent acts (e.g., reckless driving), imposing imprisonment of up to 5 years with possible fine.
+BNS Section 62 – Abetment of Suicide of Child or Mentally Ill Person – Makes abetting the suicide of a child, person with mental illness, or someone unable to comprehend consequences punishable with death or life imprisonment.
+BNS Section 63 – Abetment of Suicide of Woman – Prescribes up to 10 years of imprisonment and fine for abetting a woman’s suicide, especially in context of cruelty or dowry-related pressure.
+BNS Section 64 – Attempt to Commit Suicide – Decriminalizes suicide attempt for ordinary persons but penalizes attempts done with intent to threaten, coerce, or manipulate others or public authorities.
+BNS Section 65 – Thug – Defines a thug as someone habitually associated with robbery and murder by deception or violence, prescribing punishment up to life imprisonment.
+BNS Section 66 – Assault or Criminal Force – Defines use of physical force or threat with intent to cause harm, insult, or fear, prescribing varying degrees of punishment based on severity.
+BNS Section 67 – Assault or Criminal Force on Grave Provocation – Provides reduced punishment for acts of assault or criminal force committed under sudden and grave provocation, acknowledging loss of self-control.
+BNS Section 68 – Wrongful Restraint – Punishes anyone who voluntarily obstructs another person so as to prevent them from proceeding lawfully in a direction they have the right to move.
+BNS Section 69 – Wrongful Confinement – Penalizes unlawful detention of a person within boundaries they cannot escape, and includes enhanced punishment for confinement in secret or prolonged manner.
+BNS Section 70 – Wrongful Confinement in Secret – Prescribes up to 3 years' imprisonment for secretly confining someone, recognizing the added cruelty and violation involved.
+BNS Section 71 – Wrongful Confinement for Extorting Confession or Property – Punishes anyone who confines another to extort a confession, information, or valuable property, acknowledging the abuse of force and coercion.
+BNS Section 72 – Assault or Criminal Force to Deter Public Servant – Criminalizes use of force or threat against public servants to stop them from performing lawful duties, ensuring protection of governance.
+BNS Section 73 – Assault or Criminal Force to Woman with Intent to Outrage Modesty – Penalizes physical acts or gestures meant to violate the modesty of a woman, including unwelcome physical contact or lewd behavior.
+BNS Section 74 – Sexual Harassment – Defines and criminalizes unwelcome sexual advances, showing pornography, or making sexually colored remarks, promoting dignity and safety of women.
+BNS Section 75 – Punishment for Sexual Harassment – Prescribes imprisonment of up to 3 years or fine or both, depending on the nature of the act and whether physical contact was involved.
+BNS Section 76 – Assault or Use of Criminal Force on Woman with Intent to Disrobe – Punishes forcibly removing or attempting to remove a woman’s clothing, with imprisonment up to 7 years or more.
+BNS Section 77 – Voyeurism – Penalizes watching or capturing images of a woman in a private act without consent, especially when shared or published, with increasing punishment for repeat offences.
+BNS Section 78 – Stalking – Criminalizes following, contacting, or monitoring a woman despite her disinterest, particularly through digital means, with harsher penalties for repeat offences.
+BNS Section 79 – Dowry Death (Repeats Section 58 Textually) – Reiterates penal provisions related to unnatural death of a woman due to dowry harassment within 7 years of marriage, possibly for emphasis or cross-chapter relevance.
+BNS Section 80 – Kidnapping – Defines kidnapping as taking or enticing a minor or unsound person away from lawful guardianship, or unlawful confinement, with intent-based enhancements.
+BNS Section 81 – Abduction – Defines abduction as forcibly or deceitfully taking someone from one place to another, focusing on method rather than age or legal guardianship.
+BNS Section 82 – Kidnapping or Maiming a Child for Begging – Imposes harsh penalties, including life imprisonment, for abducting or disfiguring a child to exploit them for begging.
+BNS Section 83 – Kidnapping or Abduction in Order to Murder – Punishes those who kidnap or abduct with the intent to murder or put a person at risk of being killed.
+BNS Section 84 – Kidnapping for Ransom – Prescribes severe penalties including life imprisonment or death for kidnapping with intent to demand ransom, especially with threats of harm or death.
+BNS Section 85 – Importation of Girl or Boy from Foreign Country – Punishes bringing a girl under 21 or boy under 18 into India for illicit purposes like exploitation or trafficking.
+BNS Section 86 – Wrongful Concealment or Confinement of Kidnapped or Abducted Person – Makes it an offence to knowingly harbor or conceal a kidnapped or abducted person, even if not directly involved in the abduction.
+BNS Section 87 – Trafficking of Person – Broadly defines and criminalizes trafficking for exploitation using threats, deception, or coercion, with enhanced penalties for trafficking children or multiple persons.
+BNS Section 88 – Exploitation of a Trafficked Person – Punishes those who employ, use, or benefit from a trafficked person for exploitation, regardless of whether they participated in the trafficking itself.
+BNS Section 89 – Habitual Dealing in Slaves – Penalizes repeated involvement in buying, selling, or transporting people as slaves, with imprisonment extending to life in aggravated cases.
+BNS Section 90 – Unlawful Compulsory Labour – Criminalizes forcing any person to work against their will through coercion, threat, or unlawful influence.
+BNS Section 91 – Waging or Attempting to Wage War Against Government of India – Treats acts of war, armed rebellion, or attempts to destabilize the Indian state as treason, punishable with death or life imprisonment.
+BNS Section 92 – Conspiracy to Commit War Against Government of India – Punishes those who conspire or attempt to wage war against India, even if no actual act of war is carried out.
+BNS Section 93 – Collecting Arms to Wage War – Penalizes gathering weapons, troops, or resources with the intent to wage war against the government.
+BNS Section 94 – Concealing Design to Wage War – Punishes anyone who knows about plans to wage war and fails to inform authorities, treating it as aiding treason.
+BNS Section 95 – Assault on President or Governor – Prescribes severe punishment for assaults or attempts to harm the President or a State Governor with intent to compel or influence them.
+BNS Section 96 – Acts Endangering Sovereignty, Unity, and Integrity of India – Criminalizes actions (including speech and digital content) that threaten India’s unity, sovereignty, or incite separatism or armed rebellion.
+BNS Section 97 – Waging War Against a Foreign State at Peace with India – Treats unauthorized armed hostilities against peaceful foreign states as an offence against India’s diplomatic interests.
+BNS Section 98 – Committing Depredation on Territories of Foreign State – Punishes individuals who plunder, raid, or cause damage in foreign territories that are friendly with India.
+BNS Section 99 – Receiving Property from War Against Friendly State – Penalizes accepting or dealing with property obtained through illegal warlike acts in friendly foreign territories.
+BNS Section 100 – Public Servant Voluntarily Allowing Prisoner to Escape – Prescribes punishment for public servants who intentionally help prisoners escape custody or avoid lawful detention.
+BNS Section 101 – Public Servant Negligently Suffering Prisoner to Escape – Punishes public servants who carelessly allow prisoners to escape due to neglect of duty or insufficient supervision.
+BNS Section 102 – Resistance or Obstruction to Lawful Apprehension – Penalizes anyone who intentionally resists or obstructs the arrest of themselves or another person under lawful authority.
+BNS Section 103 – Assault or Obstruction While Rescuing or Resisting Arrest – Addresses use of force during resistance or attempted rescue from lawful custody, with higher penalties for violence.
+BNS Section 104 – Harbouring Offender – Punishes those who knowingly shelter or conceal a person who has committed an offence, especially to prevent arrest or escape.
+BNS Section 105 – Public Servant Disobeying Law with Intent to Save Person – Penalizes public servants who willfully disobey legal directives to shield someone from punishment.
+BNS Section 106 – Fabricating False Evidence – Criminalizes the act of creating false documents, materials, or testimony intended to deceive judicial or official proceedings.
+BNS Section 107 – Giving False Evidence – Punishes giving false statements under oath or solemn affirmation during any legal or judicial proceeding.
+BNS Section 108 – Threatening a Person to Give False Evidence – Addresses coercion or threats made to influence someone into providing false evidence.
+BNS Section 109 – Using Evidence Known to Be False – Penalizes knowingly using or presenting false evidence with intent to mislead courts or authorities.
+BNS Section 110 – Destruction of Document to Prevent Production as Evidence – Makes it an offence to destroy or conceal any document with the intent to prevent its use as legal evidence.
+BNS Section 111 – Threatening or Intimidating Witness or Public Servant – Criminalizes threats, intimidation, or harm directed at witnesses or officials involved in judicial processes.
+BNS Section 112 – Personation of Assessor – Punishes impersonating an assessor or juror in any judicial proceeding to interfere with the course of justice.
+BNS Section 113 – False Claim in Court – Penalizes individuals who file knowingly false claims in a court of law to mislead or gain unjust advantage.
+BNS Section 114 – False Information Leading to Injury – Punishes those who provide intentionally false information that causes injury to another person, legally or otherwise.
+BNS Section 115 – Intentional Insult or Interruption to Public Servant – Criminalizes actions or words meant to intentionally insult or interrupt a public servant during official duties.
+BNS Section 116 – Personating Public Servant – Penalizes falsely pretending to be a public servant to deceive or obtain undue advantage.
+BNS Section 117 – Wearing Garb or Carrying Token Used by Public Servant – Addresses misuse of uniforms, badges, or symbols intended to impersonate public officials.
+BNS Section 118 – Unlawful Assembly – Defines unlawful assembly as a group of five or more people with a common intent to disturb public peace or commit an offence.
+BNS Section 119 – Rioting – Defines and punishes rioting, where force or violence is used by an unlawful assembly in pursuit of their common objective.
+BNS Section 120 – Armed with Deadly Weapon During Rioting – Prescribes enhanced punishment for rioting when members are armed with deadly weapons or anything capable of causing serious harm.
+BNS Section 121 – Rioting by Public Servants or Armed Forces – Imposes strict penalties on public servants or military personnel who take part in unlawful assemblies or riots.
+BNS Section 122 – Promoting Enmity Between Groups – Criminalizes acts that promote hostility between religious, racial, or other social groups to preserve communal harmony.
+BNS Section 123 – Imputations Against National Integration – Punishes speech or acts that deliberately weaken or question the sovereignty and unity of India.
+BNS Section 124 – Statements Conducing to Public Mischief – Penalizes false or reckless statements that incite fear, panic, or disturbance among the public.
+BNS Section 125 – False Alarm to Induce Panic – Criminalizes spreading false alarms about disasters or emergencies to provoke unnecessary panic or disruption.
+BNS Section 126 – Obstructing Public Servant in Discharge of Duty – Prescribes punishment for anyone who willfully obstructs a public servant from carrying out lawful responsibilities.
+BNS Section 127 – Assaulting Public Servant – Provides punishment for using criminal force or assaulting a public servant while they are executing their duties.
+BNS Section 128 – Non-Attendance in Response to Legal Summons – Penalizes failure to appear or respond to a legal summons or order from a public authority.
+BNS Section 129 – Refusing Oath When Duly Required – Punishes anyone who, without lawful excuse, refuses to take an oath or affirmation when legally required to do so.
+BNS Section 130 – Refusing to Answer or Produce Document – Addresses refusal to answer lawful questions or produce required documents in judicial or legal proceedings.
+BNS Section 131 – False Statement on Oath to Public Servant – Penalizes making knowingly false declarations or statements under oath to a public servant during legal or official proceedings.
+BNS Section 132 – Refusing to Sign Statement When Legally Required – Punishes refusal to sign a statement or record when lawfully asked to do so in official or judicial contexts.
+BNS Section 133 – False Certificate – Penalizes issuing or signing false certificates by persons authorized to issue official or legal certifications, like doctors or officers.
+BNS Section 134 – Using False Certificate – Criminalizes using a certificate known to be false to deceive public authorities or gain unlawful benefit.
+BNS Section 135 – Resistance to Taking Property by Lawful Authority – Penalizes forcibly resisting or obstructing lawful seizure or possession of property by government or court orders.
+BNS Section 136 – Fraudulent Removal or Concealment of Property – Addresses intentionally removing or hiding property to avoid its lawful seizure or forfeiture.
+BNS Section 137 – Preventing Service of Summons or Legal Document – Punishes any act that intentionally obstructs the delivery of legal summons or notices.
+BNS Section 138 – Non-Appearance by Person Released on Bond – Penalizes failure to appear in court or before a legal authority after being released on bond or bail.
+BNS Section 139 – Absconding to Avoid Service of Summons – Deals with those who deliberately abscond or hide to avoid being served legal documents.
+BNS Section 140 – Aiding Escape of Prisoner – Criminalizes assisting a prisoner in escaping from lawful custody, regardless of whether it involves force or deceit.
+BNS Section 141 – Violation of Conditions of Remission – Punishes a person who, having received conditional remission of punishment, violates its terms or conditions.
+BNS Section 142 – Intentional Omission by Public Servant – Addresses deliberate omissions or failures by public servants in their official duties which facilitate an offence.
+BNS Section 143 – Public Servant Framing Incorrect Document – Penalizes public servants who intentionally draft false or incorrect records, such as charges, reports, or registers.
+BNS Section 144 – Unlawful Purchase or Bid at Auction – Penalizes government officers who unlawfully bid or purchase property in auctions under their supervision or control.
+BNS Section 145 – Personation at Election – Deals with fraudulent voting or impersonation during an election, affecting the integrity of the electoral process.
+BNS Section 146 – Public Servant Disobeying Direction of Law – Criminalizes public servants who knowingly act against legal procedures or violate statutory duties.
+BNS Section 147 – Obstructing Sale of Property Offered by Authority – Punishes individuals who obstruct lawful auctions or sales conducted under government authority.
+BNS Section 148 – Giving False Information to Public Servant – Penalizes giving incorrect or misleading information to public servants intending to deceive or cause injury.
+BNS Section 149 – Refusing to Serve as Public Servant When Required – Deals with refusal by persons to serve as jurors, assessors, or in other public duties without lawful excuse.
+BNS Section 150 – Threat of Injury to Induce Public Servant – Criminalizes threatening or intimidating public servants to manipulate decisions or behavior in official matters.
+BNS Section 151 – Escape from Confinement or Custody – Penalizes anyone who escapes or attempts to escape from lawful custody or imprisonment.
+BNS Section 152 – Resistance to Lawful Apprehension – Deals with using force or threats to avoid being lawfully apprehended or taken into custody.
+BNS Section 153 – Harbouring Robbers or Dacoits – Punishes individuals who knowingly shelter or assist persons involved in robbery or dacoity to evade justice.
+BNS Section 154 – Harbouring Offender Who Escaped or Rescued – Criminalizes giving refuge to someone who has escaped or been rescued from lawful custody.
+BNS Section 155 – Public Servant Concealing Design to Commit Offence – Penalizes public servants who, knowing of a plan to commit a crime, conceal it instead of reporting.
+BNS Section 156 – Destruction of Evidence to Shield Offender – Criminalizes intentional destruction or concealment of evidence to prevent the conviction of a person.
+BNS Section 157 – Taking Gift to Shield Offender – Punishes accepting a bribe or gift in exchange for shielding a person from legal proceedings or punishment.
+BNS Section 158 – Offering Gift to Screen Offender – Addresses the act of offering gratification to any person to help an offender escape legal consequences.
+BNS Section 159 – Taking Gift to Recover Stolen Property – Penalizes public servants who accept rewards to recover stolen property without intending to prosecute the offender.
+BNS Section 160 – Harbouring Known Offender – Punishes any person who knowingly provides shelter to an individual already convicted or charged with a criminal offence.
+BNS Section 161 – Public Servant Taking Gratification Other Than Legal Remuneration – Punishes public servants who accept bribes or unauthorized rewards in return for performing or omitting official duties.
+BNS Section 162 – Taking Gratification to Influence Public Servant – Penalizes anyone who offers or accepts gratification to influence the behavior or decisions of a public servant.
+BNS Section 163 – Taking Gratification to Influence Judicial Proceedings – Criminalizes acceptance of illegal payment with the intent to influence court decisions or legal processes.
+BNS Section 164 – Taking or Offering Bribe to Influence Public Servant – Covers both the giver and taker of bribes intended to sway public servant actions, ensuring accountability on both sides.
+BNS Section 165 – Public Servant Obtaining Valuable Thing Without Consideration – Penalizes public servants who receive valuable items from individuals involved in proceedings they oversee, even without direct bribery.
+BNS Section 166 – Abetment by Public Servant of Offences Related to Bribery – Punishes public servants who assist, encourage, or fail to report bribery or corruption offences.
+BNS Section 167 – Illegal Purchase or Bid by Public Servant at Auction – Penalizes public servants who unfairly buy or bid in auctions they oversee, violating impartiality and fairness.
+BNS Section 168 – Public Servant Engaged in Trade – Prohibits public servants from engaging in commercial enterprises while in office without permission, to prevent conflict of interest.
+BNS Section 169 – Public Servant Unlawfully Acquiring Property – Penalizes government officials who acquire property related to matters they are involved in administratively or judicially.
+BNS Section 170 – Personating a Public Servant – Criminalizes falsely claiming to be a public servant to deceive or coerce others or gain benefits.
+BNS Section 171 – Wearing Garb Used by Public Servant – Penalizes unauthorized use of uniforms, insignia, or garments meant for public servants to impersonate or mislead.
+BNS Section 172 – Absconding to Avoid Service of Summons or Proceedings – Deals with intentional evasion of court summons or notices by hiding or fleeing.
+BNS Section 173 – Preventing Service or Execution of Legal Documents – Penalizes obstructing delivery of summons, orders, or other legal documents, disrupting due process.
+BNS Section 174 – Non-Attendance in Obedience to Summons – Criminalizes the act of deliberately not appearing when legally summoned by a public authority or court.
+BNS Section 175 – Omission to Produce Document or Electronic Record – Penalizes refusal to produce a document or record when legally required to do so during investigations or proceedings.
+BNS Section 176 – Refusing to Take Oath or Affirmation – Applies to those who, without lawful excuse, refuse to take an oath or affirmation in legal settings.
+BNS Section 177 – Refusing to Answer Questions by Public Servant – Penalizes refusal to respond to lawful questions posed by authorities or public officials.
+BNS Section 178 – Giving False Information – Addresses knowingly providing false details to a public servant, especially during official duties or inquiries.
+BNS Section 179 – Fabricating False Evidence – Criminalizes creation or manipulation of false evidence to influence judicial or administrative outcomes.
+BNS Section 180 – Giving False Evidence – Punishes deliberate lying or providing false testimony during legal proceedings under oath or affirmation.
+BNS Section 181 – Threatening or Inducing a Person to Give False Evidence – Penalizes attempts to intimidate or induce someone into giving false testimony in court.
+BNS Section 182 – Using Evidence Known to Be False – Addresses knowingly presenting or relying on false evidence in a judicial setting to mislead authorities.
+BNS Section 183 – Destruction of Document to Prevent Production as Evidence – Criminalizes hiding, destroying, or tampering with documents to obstruct justice.
+BNS Section 184 – Threatening Any Person to Give False Evidence – Penalizes coercion or threats used to force someone into fabricating testimony or evidence.
+BNS Section 185 – Causing Disappearance of Evidence – Criminalizes actions taken to remove or hide evidence relevant to an investigation or trial.
+BNS Section 186 – False Charge of Offence Made with Intent to Injure – Penalizes lodging false accusations against someone with the intention of harming their reputation or liberty.
+BNS Section 187 – Providing False Information to Mislead Officer – Addresses giving misleading or incorrect information to a police officer to derail investigation or implicate another.
+BNS Section 188 – Threatening Witness or Public Servant – Criminalizes threats or acts of intimidation against witnesses, complainants, or public servants related to legal duties.
+BNS Section 189 – Intentionally Insulting Public Servant – Penalizes acts meant to insult or undermine the dignity of a public servant while performing lawful duties.
+BNS Section 190 – Disobedience to Order Duly Promulgated by Public Servant – Addresses violation of legal orders or directives issued by authorities for public safety or order.
+BNS Section 191 – False Evidence Before Authority – Penalizes intentionally giving false evidence in any stage of a judicial or official proceeding.
+BNS Section 192 – Fabricating False Evidence – Criminalizes creating false circumstances, documents, or records with the intent to mislead judicial or official proceedings.
+BNS Section 193 – Punishment for False Evidence – Prescribes punishment for intentionally giving or fabricating false evidence in any legal process.
+BNS Section 194 – Giving or Fabricating False Evidence with Intent to Procure Conviction for Capital Offence – Provides enhanced punishment when false evidence is given to wrongfully convict someone of an offence punishable by death.
+BNS Section 195 – Threatening or Inducing a Person to Give False Evidence – Punishes attempts to intimidate or bribe individuals to provide false testimony.
+BNS Section 196 – Using Evidence Known to Be False – Penalizes presenting or relying on evidence known to be fabricated or untrue in legal matters.
+BNS Section 197 – Issuing False Certificate – Criminalizes authorized individuals issuing false certificates intending to mislead public authorities.
+BNS Section 198 – Using False Certificate – Penalizes knowingly using a false certificate to deceive public officers or institutions.
+BNS Section 199 – False Statement Made in Declaration Which is by Law Receivable as Evidence – Applies to false declarations submitted as evidence under any legal requirement.
+BNS Section 200 – Using Declaration Known to Be False – Punishes using a legally significant declaration one knows to be false to gain advantage or mislead.
+BNS Section 201 – Causing Disappearance of Evidence of Offence – Penalizes destruction or concealment of evidence with intent to screen the offender from punishment.
+BNS Section 202 – Giving False Information Regarding an Offence – Punishes deliberately misleading police or authorities about a crime.
+BNS Section 203 – Giving False Information with Intent to Cause Injury – Criminalizes providing false information about another person with intent to cause legal or reputational harm.
+BNS Section 204 – Destruction of Document to Prevent Its Production as Evidence – Penalizes hiding or destroying documents with the purpose of obstructing legal proceedings.
+BNS Section 205 – False Personation in Legal Proceedings – Punishes appearing or acting in a legal capacity while impersonating another person.
+BNS Section 206 – Fraudulent Removal or Concealment of Property to Prevent Its Seizure – Addresses hiding or transferring property to evade lawful attachment or confiscation.
+BNS Section 207 – Dishonestly Claiming Property – Penalizes individuals who make dishonest or fraudulent claims over property to which they have no legal right.
+BNS Section 208 – Fraudulently Obtaining Decree for Sum Not Due – Criminalizes obtaining a court decree or order for a sum of money that is not actually owed.
+BNS Section 209 – Fraudulently Bringing or Defending False Claim in Court – Punishes engaging in legal proceedings based on knowingly false claims or defenses.
+BNS Section 210 – Fraudulent Execution of Deed of Transfer Containing False Statement – Penalizes executing property transfer documents with false information to cheat others.
+BNS Section 211 – False Charge of Offence Made with Intent to Injure – Punishes maliciously accusing someone of a criminal offence without any legal basis.
+BNS Section 212 – Harbouring Offender – Penalizes providing shelter or support to someone who has committed an offence and is avoiding arrest or punishment.
+BNS Section 213 – Taking Gift to Screen an Offender from Punishment – Criminalizes accepting bribes or gifts to help an offender avoid legal consequences.
+BNS Section 214 – Offering Gift to Screen an Offender – Penalizes those who offer bribes or inducements to protect offenders from prosecution or arrest.
+BNS Section 215 – Taking Gift to Help Recover Stolen Property Without Prosecuting – Punishes receiving rewards to recover stolen property while allowing the thief to escape justice.
+BNS Section 216 – Harbouring Offender Who Escaped from Custody or Whose Apprehension Has Been Ordered – Criminalizes helping individuals who have escaped or are actively being sought by law enforcement.
+BNS Section 217 – Public Servant Disobeying Direction of Law with Intent to Save Person from Punishment – Penalizes public servants who break legal procedures to protect an offender.
+BNS Section 218 – Public Servant Framing Incorrect Record or Writing with Intent to Save Person from Punishment – Addresses falsification of official records by public servants to shield someone from punishment.
+BNS Section 219 – Public Servant in Judicial Proceeding Corruptly Making Report Contrary to Law – Penalizes judges or magistrates who knowingly issue unlawful decisions to protect or punish a person unfairly.
+BNS Section 220 – Commitment for Trial or Confinement by Public Servant Contrary to Law – Criminalizes wrongful confinement or commitment to trial by a public servant without lawful authority.
+BNS Section 221 – Intentional Omission to Apprehend – Penalizes public servants who deliberately fail to arrest or detain individuals legally required to be taken into custody.
+BNS Section 222 – Intentional Omission to Apprehend Person Under Sentence or Lawfully Committed – Applies when a public servant intentionally avoids arresting or detaining someone convicted or ordered into custody.
+BNS Section 223 – Escape from Confinement or Custody Negligently Suffered by Public Servant – Punishes public servants who, through negligence, allow a prisoner to escape from lawful custody.
+BNS Section 224 – Resistance or Obstruction to Lawful Apprehension – Criminalizes resisting or obstructing a lawful arrest or assisting another person in avoiding arrest.
+BNS Section 225 – Omission to Apprehend, or Suffering Escape, by Public Servant in Cases Not Otherwise Provided For – Addresses general cases where public servants negligently or intentionally allow persons to escape justice.
+BNS Section 226 – Resistance or Obstruction to Lawful Apprehension of Another Person – Penalizes anyone who intentionally interferes with the arrest of another individual under lawful authority.
+BNS Section 227 – Violation of Condition of Remission of Punishment – Punishes a person who, after receiving a conditional pardon or remission, violates the conditions attached to it.
+BNS Section 228 – Intentional Insult or Interruption to Public Servant During Judicial Proceeding – Penalizes behavior that disrupts or disrespects public servants during court or official proceedings.
+BNS Section 229 – Personation of an Assessor – Criminalizes falsely acting or claiming to be an appointed assessor in a legal or judicial matter.
+BNS Section 230 – Counterfeiting Coin, Government Stamps or Currency – Severely penalizes creating fake coins, currency notes, or government-issued stamps with intent to defraud.
+BNS Section 231 – Making or Possessing Instruments for Counterfeiting – Addresses possession or manufacture of tools used to counterfeit government currency or stamps.
+BNS Section 232 – Using as Genuine, Forged or Counterfeit Documents – Criminalizes knowingly using counterfeit currency, coins, or documents as genuine.
+BNS Section 233 – Possession of Counterfeit Coin, Currency, or Stamps – Penalizes holding counterfeit items with knowledge of their false nature and intent to circulate them.
+BNS Section 234 – Delivery of Counterfeit Coin or Currency – Applies to anyone who knowingly delivers counterfeit money or currency in transactions.
+BNS Section 235 – Making or Selling Instrument for Forging Documents – Punishes individuals who manufacture or distribute tools for creating fake documents or items.
+BNS Section 236 – Fraudulent Use of False Weight or Measure – Penalizes using tampered weights or measures in trade or commerce to cheat others.
+BNS Section 237 – Being in Possession of False Weight or Measure – Applies to traders or persons who knowingly keep false weights or measures for fraudulent purposes.
+BNS Section 238 – Making or Selling False Weight or Measure – Criminalizes producing or selling tampered or inaccurate weights and measuring devices.
+BNS Section 239 – Counterfeiting Trade Marks – Penalizes faking or imitating registered trademarks to deceive consumers or violate brand rights.
+BNS Section 240 – Counterfeiting Property Mark Used by Another – Deals with forging or using another person's property mark to misrepresent goods.
+BNS Section 241 – Tampering with Property Mark with Intent to Cause Injury – Criminalizes altering or removing property marks to cause harm or wrongful gain.
+BNS Section 242 – Counterfeiting Document or Electronic Record – Addresses making false documents or digital records intended to mislead or defraud.
+BNS Section 243 – Forgery of Record of Court or Public Register – Penalizes forging official documents such as court records, public registers, or government records.
+BNS Section 244 – Using as Genuine a Forged Document – Applies to anyone who knowingly uses a forged document or record to deceive others.
+BNS Section 245 – Possession of Forged Document – Criminalizes keeping forged documents with the intent to use them as genuine.
+BNS Section 246 – Forgery for the Purpose of Cheating – Applies when forgery is committed specifically to deceive and obtain property or services fraudulently.
+BNS Section 247 – Forgery for the Purpose of Harming Reputation – Penalizes forging documents aimed at defaming or damaging the reputation of a person.
+BNS Section 248 – Making False Documents – Provides a comprehensive definition and punishment for the act of creating false documents or records.
+BNS Section 249 – Forgery of Valuable Security, Will, or Authority to Make Document – Targets high-stakes forgeries involving financial documents, wills, or legal authorizations.
+BNS Section 250 – Forgery of Identity Documents – Penalizes creation or use of forged identification documents such as passports, Aadhaar, or licenses.BNS Section 251 – Forgery of Court Records or Public Documents – Penalizes forging documents related to courts or public offices with intent to deceive or cause harm.
+BNS Section 251 – Forgery of Court Records or Public Documents – Penalizes forging documents related to courts or public offices with intent to deceive or cause harm.
+BNS Section 252 – Using Forged Court or Public Document as Genuine – Punishes the use of forged public records, knowing them to be false, in legal or official matters.
+BNS Section 253 – Possession of Forged Documents with Intent to Use as Genuine – Applies to individuals who knowingly keep forged public or private documents intending to use them.
+BNS Section 254 – Fraudulent Cancellation or Destruction of Valuable Document – Penalizes intentionally destroying, defacing, or concealing important documents to cause harm or wrongful loss.
+BNS Section 255 – Falsification of Accounts – Criminalizes manipulation of books of accounts or records to defraud employers, clients, or the public.
+BNS Section 256 – False Statement in Connection with Sale or Letting of Property – Applies when a person knowingly gives false information in real estate transactions to deceive the buyer or lessee.
+BNS Section 257 – Fraudulent Execution of Deed of Transfer – Penalizes making or executing any property transfer deed fraudulently with intent to cause injury or loss.
+BNS Section 258 – Mischief – Defines and punishes acts where a person destroys or alters property intending to cause wrongful loss or damage.
+BNS Section 259 – Mischief Causing Damage to Public Property – Provides enhanced punishment for acts of mischief involving damage to government or public property.
+BNS Section 260 – Mischief with Preparation for Causing Death or Hurt – Applies when mischief is committed with dangerous intent, including preparations that could lead to injury or death.
+BNS Section 261 – Criminal Trespass – Penalizes entering into or remaining on property unlawfully, with intent to commit an offence or intimidate occupants.
+BNS Section 262 – House-Trespass – A specific form of trespass involving unlawful entry into any building, tent, or vessel used for residence or property storage.
+BNS Section 263 – Lurking House-Trespass – Refers to house-trespass committed in a secretive manner to avoid detection and facilitate another offence.
+BNS Section 264 – House-Breaking – Criminalizes forcibly entering a house or premises with intent to commit an offence, including breaking locks or using other means.
+BNS Section 265 – House-Trespass by Night – Penalizes unauthorized entry into a dwelling house during nighttime with potential criminal intent.
+BNS Section 266 – House-Breaking by Night – Applies when house-breaking is done after sunset and before sunrise, often considered more severe.
+BNS Section 267 – Making a False Claim – Penalizes individuals who make fraudulent claims to gain benefits, compensation, or property unlawfully.
+BNS Section 268 – False Charge of Offence with Intent to Injure – Punishes those who falsely accuse someone of a crime with malicious intent.
+BNS Section 269 – Public Nuisance – Criminalizes acts that cause common injury, danger, or annoyance to the general public or people in the vicinity.
+BNS Section 270 – Negligent Act Likely to Spread Infection of Disease – Penalizes careless acts that risk the spread of a life-threatening disease to others.
+BNS Section 271 – Malignant Act Likely to Spread Infection of Disease – Covers deliberate and malicious conduct intended to spread infectious diseases.
+BNS Section 272 – Disobedience to Quarantine Rule – Penalizes individuals who violate quarantine or isolation protocols established by lawful authorities.
+BNS Section 273 – Adulteration of Food or Drink Meant for Sale – Criminalizes mixing harmful or substandard substances into food or drink sold for public consumption.
+BNS Section 274 – Sale of Noxious Food or Drink – Penalizes selling food or beverages known to be dangerous or unfit for human consumption.
+BNS Section 275 – Adulteration of Drugs – Covers intentionally altering drugs to reduce their quality, potency, or effectiveness, endangering lives.
+BNS Section 276 – Sale of Adulterated Drugs – Penalizes knowingly selling or distributing adulterated or spurious pharmaceutical products.
+BNS Section 277 – Sale of Drug as a Different Drug – Applies when a seller misrepresents a drug, claiming it to be something else, potentially causing harm.
+BNS Section 278 – Fouling Water of Public Spring or Reservoir – Criminalizes polluting water sources used by the public, which can endanger health.
+BNS Section 279 – Making Atmosphere Noxious to Health – Penalizes acts that cause air pollution or release harmful gases, making the atmosphere unsafe.
+BNS Section 280 – Rash Driving or Riding on a Public Way – Addresses dangerous or reckless driving behavior that endangers the lives or safety of others in public spaces.
+BNS Section 281 – Driving Vehicle While Intoxicated – Penalizes driving under the influence of alcohol or drugs in a manner that endangers human life or public safety.
+BNS Section 282 – Obstruction to Public Way – Criminalizes the unauthorized blocking of a public road, path, or passage, causing inconvenience to the public.
+BNS Section 283 – Negligent Conduct with Respect to Fire or Combustible Matter – Applies to careless handling of fire or explosive substances likely to cause damage or harm.
+BNS Section 284 – Negligent Conduct with Respect to Poisonous Substance – Penalizes unsafe or irresponsible handling of toxic or poisonous materials.
+BNS Section 285 – Negligent Conduct with Respect to Animal – Criminalizes mishandling or failing to control animals, leading to danger or injury.
+BNS Section 286 – Mischief by Killing or Maiming Animal – Punishes causing death or permanent injury to animals with malicious intent.
+BNS Section 287 – Trespass to Cultivated Land – Addresses unauthorized entry or interference with cultivated agricultural land.
+BNS Section 288 – Conduct Endangering Public Safety – Penalizes any activity carried out in a reckless manner that threatens public safety or order.
+BNS Section 289 – Negligent Omission to Provide Necessaries – Applies to individuals legally bound to provide necessities who fail to do so, resulting in danger to life or health.
+BNS Section 290 – Causing Death by Rash or Negligent Act – Criminalizes deaths caused by careless actions lacking proper caution or regard for life.
+BNS Section 291 – Causing Grievous Hurt by Rash or Negligent Act – Applies when serious bodily harm results from reckless behavior or lack of due care.
+BNS Section 292 – Attempt to Commit Suicide – Addresses the act of attempting to end one’s own life and allows provision for care and rehabilitation.
+BNS Section 293 – Abetment of Suicide – Punishes anyone who intentionally instigates, aids, or facilitates the suicide of another person.
+BNS Section 294 – Abetment of Suicide of Minor or Person of Unsound Mind – Provides stringent punishment when a minor, mentally ill person, or intoxicated individual is driven to suicide.
+BNS Section 295 – Disclosure of Identity of Victim of Certain Offences – Prohibits publishing or revealing the identity of victims of sexual or sensitive crimes without legal authorization.
+BNS Section 296 – Intentional Omission to Give Notice or Information to Public Servant – Applies when a person legally bound to inform authorities willfully fails to do so.
+BNS Section 297 – Giving False Information to Mislead Public Servant – Penalizes knowingly supplying incorrect or deceptive information to a public authority.
+BNS Section 298 – Threat of Injury to Public Servant – Criminalizes threatening public officials to deter them from performing their lawful duties.
+BNS Section 299 – Attempt to Commit Offence – Covers any direct and intentional act done towards the commission of a crime, even if not completed.
+BNS Section 300 – Concealing Design to Commit Offence – Applies to individuals who intentionally hide knowledge of planned crimes to shield offenders.
+BNS Section 301 – Criminal Intimidation – Penalizes threats intended to instill fear of injury to person, reputation, or property.
+BNS Section 302 – Attempt to Commit Criminal Intimidation – Applies when a person takes steps to instill fear or coerce another without fulfilling the act.
+BNS Section 303 – Theft – Defines theft as dishonest removal of movable property from another person’s possession without consent.
+BNS Section 304 – Snatching – Refers to theft committed by sudden, forceful grabbing of an item from a person, often in public spaces.
+BNS Section 305 – Theft in Dwelling House, Vessel, or Enclosed Place – Provides higher punishment when theft occurs inside a house, ship, or secure premises.
+BNS Section 306 – Theft After Preparation Made for Causing Death, Hurt, or Restraint – Covers theft preceded by preparations for possible violence or bodily harm.
+BNS Section 307 – Attempt to Commit Theft – Penalizes taking steps to steal, even if the actual theft is not completed.
+BNS Section 308 – Extortion – Defines extortion as intentionally causing someone to deliver property through threats or coercion.
+BNS Section 309 – Putting a Person in Fear of Injury to Commit Extortion – Covers threats made to instill fear and compel transfer of property or valuables.
+BNS Section 310 – Putting a Person in Fear of Death or Grievous Hurt to Commit Extortion – Imposes higher penalties when threats involve serious harm or death.
+BNS Section 311 – Extortion by Putting in Fear of Accusation – Criminalizes coercing someone into giving property by threatening to accuse them or their loved ones of a serious offence.
+BNS Section 312 – Robbery – Defines robbery as theft or extortion committed with immediate violence or threat of violence to person or property.
+BNS Section 313 – Dacoity – Applies when five or more persons jointly commit robbery, with stringent penalties including life imprisonment.
+BNS Section 314 – Robbery or Dacoity with Attempt to Cause Death or Grievous Hurt – Provides harsher punishment when the offence involves attempts to seriously injure or kill.
+BNS Section 315 – Robbery or Dacoity with Murder – Addresses cases where murder is committed during or while committing robbery or dacoity.
+BNS Section 316 – Attempt to Commit Robbery – Penalizes any direct action taken to commit robbery, regardless of whether the theft was successful.
+BNS Section 317 – Attempt to Commit Dacoity – Applies to preparation or initiation of dacoity, even if not fully executed.
+BNS Section 318 – Belonging to a Gang of Dacoits – Targets individuals known to be members of dacoity gangs, regardless of whether they committed a specific act.
+BNS Section 319 – Receiving Property Stolen in Robbery or Dacoity – Punishes those who knowingly accept goods acquired through robbery or dacoity.
+BNS Section 320 – Habitual Dealing in Stolen Property – Penalizes repeated handling or trading of stolen goods as a business or regular activity.
+BNS Section 321 – Dishonestly Receiving Stolen Property – Covers receiving property known or believed to be stolen, with intent to retain it unlawfully.
+BNS Section 322 – Receiving Stolen Property from a Child – Applies when stolen property is received from a minor, enhancing the gravity of the offence.
+BNS Section 323 – Cheating – Defines cheating as deceiving someone to deliver property or act in a way they wouldn’t ordinarily do, causing harm.
+BNS Section 324 – Cheating by Personation – Criminalizes pretending to be someone else to deceive and gain wrongful advantage.
+BNS Section 325 – Fraudulent Execution of Deed of Transfer Containing False Statement – Punishes individuals who create false documents for transfer of property.
+BNS Section 326 – Mischief – Involves intentional destruction or alteration of property causing wrongful loss or damage to others.
+BNS Section 327 – Mischief Causing Damage to Public Property – Focuses on damaging or defacing government property, with harsher penalties for repeat or large-scale offences.
+BNS Section 328 – Mischief Causing Damage by Fire or Explosive Substance – Applies when mischief results in destruction through fire, explosives, or similar dangerous means.
+BNS Section 329 – Criminal Trespass – Penalizes unlawful entry onto property with intent to commit an offence, intimidate, or insult lawful occupants.
+BNS Section 330 – House Trespass – A form of criminal trespass involving unauthorized entry into a dwelling, place of worship, or any private premises.
+BNS Section 331 – Lurking House Trespass – Involves stealthy and concealed trespassing, usually with intent to commit an offence without being noticed.
+BNS Section 332 – House-Breaking – Refers to entry into a house or premises by breaking open doors, windows, or through any forceful means.
+BNS Section 333 – House Trespass or House-Breaking by Night – Applies when the trespass or break-in occurs during nighttime, increasing the severity of punishment.
+BNS Section 334 – Making False Claim – Punishes anyone who fraudulently claims entitlement to something—property, services, or benefits—that they are not legally entitled to.
+BNS Section 335 – Fraudulently Preventing Debt Recovery – Penalizes dishonest actions aimed at hiding assets or obstructing lawful recovery of debts.
+BNS Section 336 – Fraudulently Executing Deed to Defraud Creditors – Applies when a person creates a sham or fraudulent transfer to avoid paying debts.
+BNS Section 337 – Fraudulent Removal or Concealment of Property to Prevent Seizure – Criminalizes hiding or relocating assets to prevent lawful confiscation.
+BNS Section 338 – Mischief in Respect of Navigable River – Penalizes actions that endanger or obstruct river traffic or safety, like damaging riverbanks or bridges.
+BNS Section 339 – Intentional Damage to Telegraph, Telephone, or Electronic Infrastructure – Applies to tampering with communication systems including wires, towers, or IT infrastructure.
+BNS Section 340 – Intentional Damage to Electric Lines or Apparatus – Covers destruction or tampering with electricity systems, which may lead to public harm or outages.
+BNS Section 341 – Mischief with Intent to Destroy Agricultural Produce – Penalizes deliberate acts aimed at damaging crops, seeds, or agricultural infrastructure.
+BNS Section 342 – Mischief by Fire or Explosives with Intent to Destroy House – Applies when fire or explosive devices are used to destroy homes or inhabited structures.
+BNS Section 343 – Criminal Breach of Contract of Service – Targets employees or service providers who willfully abandon work or violate terms of service without justification.
+BNS Section 344 – Violation of Conditions of Release from Confinement – Penalizes individuals who break the terms of parole, furlough, or temporary release.
+BNS Section 345 – Intentional Insult with Intent to Provoke Breach of Peace – Applies when insulting behavior is intended to provoke someone into retaliating violently.
+BNS Section 346 – Criminal Intimidation – Defines the act of threatening a person with injury to body, reputation, or property with intent to alarm or compel action.
+BNS Section 347 – Insulting Modesty of a Woman – Penalizes offensive or indecent gestures, words, or acts intended to insult a woman’s modesty.
+BNS Section 348 – Outraging Modesty of a Woman – Applies to physical acts, including assault, that violate a woman’s dignity and bodily autonomy.
+BNS Section 349 – Voyeurism – Criminalizes watching or capturing images of a woman engaging in private acts without consent, when she expects privacy.
+BNS Section 350 – Stalking – Addresses repeated following, contacting, or monitoring of a woman against her wishes, either physically or online.
+BNS Section 351 – Dowry Death – Applies when a woman dies under unnatural circumstances within seven years of marriage due to dowry-related harassment.
+BNS Section 352 – Assault or Use of Criminal Force – Penalizes applying physical force to another person intending to cause injury, fear, or annoyance.
+BNS Section 353 – Assault or Criminal Force to Deter Public Servant – Addresses using force or threats to obstruct a public servant from performing lawful duties.
+BNS Section 354 – Kidnapping – Defines kidnapping as taking or enticing away a person unlawfully, particularly a minor or someone of unsound mind.
+BNS Section 355 – Abduction – Applies when force or deceit is used to compel a person to go from one place to another against their will.
+BNS Section 356 – Kidnapping or Abducting in Order to Murder – Penalizes kidnapping or abduction committed with the intention of killing the victim.
+BNS Section 357 – Kidnapping for Ransom – Imposes severe penalties for abducting a person to extort money or coercive advantage through ransom demands.
+BNS Section 358 – Attempt to Commit an Offence Punishable with Life Imprisonment or Death – Provides punishment for attempting crimes that carry the maximum penalties under the law, even if the attempt fails.
