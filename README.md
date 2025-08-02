@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ---
 
 ## 🛰️ Related Repositories
-👉 Frontend Repo (React)
+👉 https://github.com/AnkitKumarIISERB/law_frontend
 
 ---
 
