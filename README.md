@@ -53,7 +53,9 @@ pip install -r requirements.txt
 
 4. Add your Groq API key
 Create a .env file in the root folder:
+
 GROQ_API_KEY=your_groq_api_key_here
+
 🔐 Do NOT share your .env file or commit it to GitHub.
 
 ---
@@ -61,19 +63,25 @@ GROQ_API_KEY=your_groq_api_key_here
 ## 🧪 Run the API
 
 python app.py
+
 Your server will start at http://localhost:5000
 
 ---
 
 ## 📮 API Usage
+
 POST /ask
 Request JSON:
+
 {
   "query": "What is the punishment for theft under Indian law?"
 }
+
 Response JSON:
+
 {
   "section": "Section 303: Whoever commits theft shall be punished with...",
+  
   "answer": "According to the Bharatiya Nyaya Sanhita, theft is punishable by..."
 }
 
@@ -82,6 +90,7 @@ Response JSON:
 ## 🧠 Embedding Generation
 
 The generate_embeddings.ipynb Colab notebook loads bns.txt, computes sentence embeddings using the all-MiniLM-L6-v2 model, and saves them as bns_embeddings.pkl.
+
 Run it once to generate/update your embeddings.
 
 ---
@@ -98,5 +107,5 @@ This project is licensed under the MIT License.
 
 ---
 
----
+
 
