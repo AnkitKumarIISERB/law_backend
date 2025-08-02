@@ -88,13 +88,15 @@ Run it once to generate/update your embeddings.
 
 ## 🔗 Related Repository
 
-👉 Frontend (Flutter App)
+👉 https://github.com/AnkitKumarIISERB/law_frontend
 
 ---
 
 ## 📜 License
 
 This project is licensed under the MIT License. 
+
+---
 
 ---
 
