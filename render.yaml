@@ -3,7 +3,7 @@ services:
     name: legal-backend
     env: python
     plan: free
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install --no-cache-dir -r requirements.txt
     startCommand: gunicorn app:app
     envVars:
       - key: GROQ_API_KEY
