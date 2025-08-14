@@ -1,28 +1,26 @@
-# Use Python 3.10.12 base image
-FROM python:3.10.12-slim
+# Use Python 3.10 for maximum compatibility
+FROM python:3.10-slim
 
-# Prevent Python from writing .pyc files and enable stdout flushing
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
-
-# Set work directory
+# Set working directory
 WORKDIR /app
 
 # Install system dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    build-essential \
+RUN apt-get update && apt-get install -y \
+    gcc \
+    g++ \
+    libpq-dev \
+    git \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
+# Copy requirements and install
 COPY requirements.txt .
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy application files
+# Copy the rest of the application
 COPY . .
 
 # Expose the port Render will use
 EXPOSE 8000
 
-# Start the app with Gunicorn
-CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:8000"]
+# Run the application
+CMD ["gunicorn", "-b", "0.0.0.0:8000", "server:app"]
