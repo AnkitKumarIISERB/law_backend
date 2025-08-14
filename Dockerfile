@@ -1,26 +1,19 @@
-# Use Python 3.10 for maximum compatibility
-FROM python:3.10-slim
+FROM python:3.10
 
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    gcc \
-    g++ \
-    libpq-dev \
-    git \
-    && rm -rf /var/lib/apt/lists/*
-
-# Copy requirements and install
+# Copy requirement files first for caching
 COPY requirements.txt .
-RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy the rest of the application
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy all project files
 COPY . .
 
-# Expose the port Render will use
-EXPOSE 8000
+# Hugging Face exposes $PORT
+ENV PORT=7860
 
-# Run the application
-CMD ["gunicorn", "-b", "0.0.0.0:8000", "server:app"]
+# Start your backend
+CMD ["python", "app.py"]
