@@ -1,19 +1,21 @@
-FROM python:3.10
+# Use lightweight Python base
+FROM python:3.10-slim
 
-# Set working directory
+# Prevent Python from buffering stdout
+ENV PYTHONUNBUFFERED=1
+
+# Create app directory
 WORKDIR /app
 
-# Copy requirement files first for caching
+# Copy requirements and install
 COPY requirements.txt .
-
-# Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy all project files
+# Copy the rest of the app
 COPY . .
 
-# Hugging Face exposes $PORT
-ENV PORT=7860
+# Expose the default Hugging Face port
+EXPOSE 7860
 
-# Start your backend
-CMD ["python", "app.py"]
+# Start the Flask app
+CMD ["python", "server.py"]
