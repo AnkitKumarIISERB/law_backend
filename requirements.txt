@@ -24,8 +24,8 @@ regex==2024.7.24
 tqdm==4.66.5
 
 # Torch (CPU-only build)
-torch==2.4.1+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
 
 # Utilities
 requests==2.32.3
