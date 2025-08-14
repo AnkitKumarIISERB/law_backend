@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: law-api-backend
+    name: legal-backend
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python app.py
+    startCommand: gunicorn app:app
     envVars:
-      - key: FLASK_ENV
-        value: production
+      - key: GROQ_API_KEY
+        sync: false
