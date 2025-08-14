@@ -12,13 +12,15 @@ app = Flask(__name__)
 CORS(app)
 
 
-
-
 with open("bns.txt", "r", encoding="utf-8") as f:
     bns_sections = f.read().split("\n")
 
 EMBEDDING_FILE = "bns_embeddings.pkl"
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+
+
+MODEL_PATH = "model"
+embedding_model = SentenceTransformer(MODEL_PATH)
+
 
 if os.path.exists(EMBEDDING_FILE):
     with open(EMBEDDING_FILE, "rb") as f:
@@ -30,21 +32,17 @@ else:
         pickle.dump(section_embeddings, f)
 
 
-
-
 from dotenv import load_dotenv
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-
 def get_most_relevant_section(query):
     query_embedding = embedding_model.encode([query])
     similarities = cosine_similarity(query_embedding, section_embeddings)[0]
     top_idx = np.argmax(similarities)
     return bns_sections[top_idx]
-
 
 def ask_groq(context, query):
     headers = {
@@ -66,7 +64,6 @@ def ask_groq(context, query):
     except Exception as e:
         return f"❌ Error fetching answer: {str(e)}"
 
-
 @app.route("/ask", methods=["POST"])
 def ask():
     data = request.get_json()
@@ -87,8 +84,6 @@ def ask():
 def health():
     return "ok", 200
 
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 7860)) 
     app.run(host="0.0.0.0", port=port)
-
