@@ -1,13 +1,11 @@
 services:
   - type: web
-    name: legal-backend
-    env: python
+    name: law-backend
+    env: docker
     plan: free
-    buildCommand: |
-      export PYTHON_VERSION=3.10.12
-      pip install --upgrade pip
-      pip install -r requirements.txt
-    startCommand: gunicorn app:app
+    branch: main
+    dockerfilePath: Dockerfile
+    autoDeploy: true
     envVars:
-      - key: GROQ_API_KEY
-        sync: false
+      - key: PORT
+        value: 8000
