@@ -83,6 +83,10 @@ def ask():
         "answer": answer
     })
 
+@app.route("/", methods=["GET"])
+def health():
+    return "ok", 200
+
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 7860)) 
