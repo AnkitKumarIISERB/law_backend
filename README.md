@@ -1,26 +1,26 @@
-# 🧠 Indian Law Q&A Backend
+# 🧠 JustiFYI: Indian Law Assistant (Backend)
 
-This is the backend service for a legal question-answering system. It uses semantic search to find the most relevant section from the **Bharatiya Nyaya Sanhita (BNS)** and generates AI-powered explanations using the **Groq API**.
+This is the **backend service** for *JustiFYI*, an AI-powered legal assistant.  
+It performs **semantic search** over the **Bharatiya Nyaya Sanhita (BNS)** and generates **AI-powered explanations** via the **Groq API**, making Indian criminal law easier to understand.
 
 ---
 
 ## 📌 Features
 
-- 🔍 Semantic search over Indian legal text using `sentence-transformers`
-- 🤖 AI-generated explanations via Groq’s `gemma2-9b-it` model
-- 🔗 REST API endpoint to serve responses to the frontend
-- 🧠 Precomputed embeddings stored for fast lookup
+- 🔍 **Semantic Search** using `sentence-transformers` to find the most relevant BNS sections  
+- 🤖 **AI-generated explanations** via Groq’s `gemma2-9b-it` model  
+- ⚡ **Precomputed embeddings** for fast legal lookups  
+- 🔗 **REST API** endpoint powering the Flutter frontend  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- Python 3
-- Flask (REST API)
-- Hugging Face `sentence-transformers`
-- scikit-learn (`cosine_similarity`)
-- Groq API (LLM)
-- Pickle (for saving embeddings)
+- **Python 3 · Flask (REST API)**  
+- **Hugging Face `sentence-transformers`**  
+- **scikit-learn** (`cosine_similarity`)  
+- **Groq API** (LLM inference)  
+- **Pickle / NumPy** (for embedding storage)
 
 ---
 
@@ -38,33 +38,10 @@ law_backend/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Deployment
 
-1. Clone the repository
-git clone https://github.com/AnkitKumarIISERB/law_backend.git
-cd law_backend
-
-2. Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-3. Install dependencies
-pip install -r requirements.txt
-
-4. Add your Groq API key
-Create a .env file in the root folder:
-
-GROQ_API_KEY=your_groq_api_key_here
-
-🔐 Do NOT share your .env file or commit it to GitHub.
-
----
-
-## 🧪 Run the API
-
-python app.py
-
-Your server will start at http://localhost:5000
+🚀 **Backend API (Hugging Face):** [JustiFYI Backend](https://huggingface.co/spaces/ankitkumariiserb/legal_chatbot_backend)  
+📱 **Frontend App:** [JustiFYI Frontend](https://huggingface.co/spaces/ankitkumariiserb/legal_chatbot_frontend)  
 
 ---
 
@@ -87,11 +64,11 @@ Response JSON:
 
 ---
 
-## 🧠 Embedding Generation
+## 🧠 How It Works
 
-The generate_embeddings.ipynb Colab notebook loads bns.txt, computes sentence embeddings using the all-MiniLM-L6-v2 model, and saves them as bns_embeddings.pkl.
-
-Run it once to generate/update your embeddings.
+1️⃣ User enters a legal question (e.g., “What is the punishment for theft?”)
+2️⃣ The backend finds the most relevant BNS section using semantic search
+3️⃣ The Groq API explains the section in simple, plain language
 
 ---
 
